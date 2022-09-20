@@ -1,0 +1,30 @@
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/Lab1_Card.csproj.AssemblyReference.cache
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/Lab1_Card.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/Lab1_Card.AssemblyInfoInputs.cache
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/Lab1_Card.AssemblyInfo.cs
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/Lab1_Card.csproj.CoreCompileInputs.cache
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/bin/Debug/net6.0/Lab1_Card
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/bin/Debug/net6.0/Lab1_Card.deps.json
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/bin/Debug/net6.0/Lab1_Card.runtimeconfig.json
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/bin/Debug/net6.0/Lab1_Card.dll
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/bin/Debug/net6.0/Lab1_Card.pdb
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/Lab1_Card.dll
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/refint/Lab1_Card.dll
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/Lab1_Card.pdb
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/Lab1_Card.genruntimeconfig.cache
+/Users/kelseyblevinsadmin/Desktop/College/CSCI 1260-001/Lab1_Card/Lab1_Card/obj/Debug/net6.0/ref/Lab1_Card.dll
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\bin\Debug\net6.0\Lab1_Card.exe
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\bin\Debug\net6.0\Lab1_Card.deps.json
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\bin\Debug\net6.0\Lab1_Card.runtimeconfig.json
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\bin\Debug\net6.0\Lab1_Card.dll
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\bin\Debug\net6.0\Lab1_Card.pdb
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\Lab1_Card.csproj.AssemblyReference.cache
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\Lab1_Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\Lab1_Card.AssemblyInfoInputs.cache
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\Lab1_Card.AssemblyInfo.cs
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\Lab1_Card.csproj.CoreCompileInputs.cache
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\Lab1_Card.dll
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\refint\Lab1_Card.dll
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\Lab1_Card.pdb
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\Lab1_Card.genruntimeconfig.cache
+C:\Users\spina\Desktop\Lab1_Card\Lab1_Card\obj\Debug\net6.0\ref\Lab1_Card.dll
